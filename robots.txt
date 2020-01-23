@@ -1,0 +1,6 @@
+<html>
+ <head></head>
+ <body>
+ Bonjour a tous
+</body>
+</html>
