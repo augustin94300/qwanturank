@@ -1,0 +1,88 @@
+Jan 21 17:47:07 10.71.57.0 u99799385 Connection from 10.71.57.0 port 47456 on 82.165.87.88 port 22
+Jan 21 17:47:16 10.71.57.0 u99799385 Accepted password for u99799385 from 10.71.57.0 port 47456 ssh2
+Jan 21 17:47:16 10.71.57.0 u99799385 Starting session: subsystem 'sftp' for u99799385 from 10.71.57.0 port 47456
+Jan 21 17:47:16 10.71.57.0 u99799385 session opened for local user u99799385 from [10.71.57.0]
+Jan 21 17:57:07 10.71.57.0 u99799385 remove name "/index.html"
+Jan 21 17:57:07 10.71.57.0 u99799385 [10.71.57.0|rm|0|0|0|0|0|2f696e6465782e68746d6c|]
+Jan 21 17:57:12 10.71.57.0 u99799385 Connection from 10.71.57.0 port 58598 on 82.165.87.88 port 22
+Jan 21 17:57:12 10.71.57.0 u99799385 Accepted password for u99799385 from 10.71.57.0 port 58598 ssh2
+Jan 21 17:57:12 10.71.57.0 u99799385 Connection from 10.71.57.0 port 58586 on 82.165.87.88 port 22
+Jan 21 17:57:12 10.71.57.0 u99799385 Accepted password for u99799385 from 10.71.57.0 port 58586 ssh2
+Jan 21 17:57:12 10.71.57.0 u99799385 Starting session: subsystem 'sftp' for u99799385 from 10.71.57.0 port 58598
+Jan 21 17:57:12 10.71.57.0 u99799385 Starting session: subsystem 'sftp' for u99799385 from 10.71.57.0 port 58586
+Jan 21 17:57:12 10.71.57.0 u99799385 session opened for local user u99799385 from [10.71.57.0]
+Jan 21 17:57:12 10.71.57.0 u99799385 session opened for local user u99799385 from [10.71.57.0]
+Jan 21 17:57:12 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:12 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:12 10.71.57.0 u99799385 mkdir name "/images" mode 0777
+Jan 21 17:57:12 10.71.57.0 u99799385 [10.71.57.0|mkdir|0|0|511|0|0|2f696d61676573|]
+Jan 21 17:57:12 10.71.57.0 u99799385 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Jan 21 17:57:12 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:12 10.71.57.0 u99799385 close "/index.html" bytes read 0 written 2283
+Jan 21 17:57:12 10.71.57.0 u99799385 [10.71.57.0|put|0|2283|0|0|0|2f696e6465782e68746d6c|]
+Jan 21 17:57:12 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:12 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:12 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:12 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:12 10.71.57.0 u99799385 mkdir name "/scripts" mode 0777
+Jan 21 17:57:12 10.71.57.0 u99799385 [10.71.57.0|mkdir|0|0|511|0|0|2f73637269707473|]
+Jan 21 17:57:13 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:13 10.71.57.0 u99799385 mkdir name "/styles" mode 0777
+Jan 21 17:57:13 10.71.57.0 u99799385 [10.71.57.0|mkdir|0|0|511|0|0|2f7374796c6573|]
+Jan 21 17:57:13 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:13 10.71.57.0 u99799385 open "/scripts/main.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Jan 21 17:57:13 10.71.57.0 u99799385 sent status No such file
+Jan 21 17:57:13 10.71.57.0 u99799385 close "/scripts/main.js" bytes read 0 written 2167
+Jan 21 17:57:13 10.71.57.0 u99799385 [10.71.57.0|put|0|2167|0|0|0|2f736372697074732f6d61696e2e6a73|]
+Jan 21 17:57:13 10.71.57.0 u99799385 open "/styles/main.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Jan 21 17:57:13 10.71.57.0 u99799385 close "/styles/main.css" bytes read 0 written 663
+Jan 21 17:57:13 10.71.57.0 u99799385 [10.71.57.0|put|0|663|0|0|0|2f7374796c65732f6d61696e2e637373|]
+Jan 21 17:58:13 10.71.57.0 u99799385 session closed for local user u99799385 from [10.71.57.0]
+Jan 21 17:58:13 10.71.57.0 u99799385 Connection closed by 10.71.57.0
+Jan 21 17:58:13 10.71.57.0 u99799385 session closed for local user u99799385 from [10.71.57.0]
+Jan 21 17:58:13 10.71.57.0 u99799385 Connection closed by 10.71.57.0
+Jan 21 18:12:22 10.71.57.0 tmp99799385-8303 Connection from 10.71.57.0 port 45762 on 82.165.87.88 port 22
+Jan 21 18:12:22 10.71.57.0 tmp99799385-8303 Accepted password for tmp99799385-8303 from 10.71.57.0 port 45762 ssh2
+Jan 21 18:12:22 10.71.57.0 tmp99799385-8303 Starting session: subsystem 'sftp' for tmp99799385-8303 from 10.71.57.0 port 45762
+Jan 21 18:12:22 10.71.57.0 tmp99799385-8303 session opened for local user tmp99799385-8303 from [10.71.57.0]
+Jan 21 18:14:19 10.71.57.0 u99799385 Connection from 10.71.57.0 port 49996 on 82.165.87.88 port 22
+Jan 21 18:14:19 10.71.57.0 u99799385 Accepted password for u99799385 from 10.71.57.0 port 49996 ssh2
+Jan 21 18:14:19 10.71.57.0 u99799385 Starting session: subsystem 'sftp' for u99799385 from 10.71.57.0 port 49996
+Jan 21 18:14:19 10.71.57.0 u99799385 session opened for local user u99799385 from [10.71.57.0]
+Jan 21 18:14:19 10.71.57.0 u99799385 sent status No such file
+Jan 21 18:14:19 10.71.57.0 u99799385 open "/.htaccess" flags WRITE,CREATE,TRUNCATE mode 0666
+Jan 21 18:14:20 10.71.57.0 u99799385 close "/.htaccess" bytes read 0 written 112
+Jan 21 18:14:20 10.71.57.0 u99799385 [10.71.57.0|put|1|112|0|0|0|2f2e6874616363657373|]
+Jan 21 18:19:56 10.71.57.0 u99799385 Connection closed by 10.71.57.0
+Jan 21 18:19:56 10.71.57.0 u99799385 session closed for local user u99799385 from [10.71.57.0]
+Jan 21 18:19:58 10.71.57.0 u99799385 Connection closed by 10.71.57.0
+Jan 21 18:19:58 10.71.57.0 u99799385 session closed for local user u99799385 from [10.71.57.0]
+Jan 23 09:32:35 10.71.57.0 tmp99799385-3425 Connection from 10.71.57.0 port 61968 on 82.165.87.88 port 22
+Jan 23 09:32:35 10.71.57.0 tmp99799385-3425 Accepted password for tmp99799385-3425 from 10.71.57.0 port 61968 ssh2
+Jan 23 09:32:35 10.71.57.0 tmp99799385-3425 Starting session: subsystem 'sftp' for tmp99799385-3425 from 10.71.57.0 port 61968
+Jan 23 09:32:35 10.71.57.0 tmp99799385-3425 session opened for local user tmp99799385-3425 from [10.71.57.0]
+Jan 23 09:47:42 10.71.57.0 u99799385 Connection from 10.71.57.0 port 61198 on 82.165.87.88 port 22
+Jan 23 09:47:56 10.71.57.0 u99799385 Accepted password for u99799385 from 10.71.57.0 port 61198 ssh2
+Jan 23 09:47:56 10.71.57.0 u99799385 Starting session: subsystem 'sftp' for u99799385 from 10.71.57.0 port 61198
+Jan 23 09:47:56 10.71.57.0 u99799385 session opened for local user u99799385 from [10.71.57.0]
+Jan 23 09:50:25 10.71.57.0 u99799385 Connection from 10.71.57.0 port 31286 on 82.165.87.88 port 22
+Jan 23 09:50:25 10.71.57.0 u99799385 Accepted password for u99799385 from 10.71.57.0 port 31286 ssh2
+Jan 23 09:50:25 10.71.57.0 u99799385 Starting session: subsystem 'sftp' for u99799385 from 10.71.57.0 port 31286
+Jan 23 09:50:26 10.71.57.0 u99799385 session opened for local user u99799385 from [10.71.57.0]
+Jan 23 09:50:26 10.71.57.0 u99799385 open "/index.html" flags READ mode 0666
+Jan 23 09:50:26 10.71.57.0 u99799385 close "/index.html" bytes read 2283 written 0
+Jan 23 09:50:26 10.71.57.0 u99799385 [10.71.57.0|get|0|2283|0|0|0|2f696e6465782e68746d6c|]
+Jan 23 09:50:35 10.71.57.0 u99799385 open "/logs/access.log.04.3.gz" flags READ mode 0666
+Jan 23 09:50:35 10.71.57.0 u99799385 close "/logs/access.log.04.3.gz" bytes read 2763 written 0
+Jan 23 09:50:35 10.71.57.0 u99799385 [10.71.57.0|get|0|2763|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e332e677a|]
+Jan 23 09:50:35 10.71.57.0 u99799385 open "/logs/access.log.04.2.gz" flags READ mode 0666
+Jan 23 09:50:35 10.71.57.0 u99799385 sent status No such file
+Jan 23 09:50:35 10.71.57.0 u99799385 close "/logs/access.log.04.2.gz" bytes read 1556 written 0
+Jan 23 09:50:35 10.71.57.0 u99799385 [10.71.57.0|get|0|1556|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e322e677a|]
+Jan 23 09:50:35 10.71.57.0 u99799385 open "/logs/last_traffic" flags READ mode 0666
+Jan 23 09:50:35 10.71.57.0 u99799385 close "/logs/last_traffic" bytes read 0 written 0
+Jan 23 09:50:35 10.71.57.0 u99799385 [10.71.57.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jan 23 09:50:35 10.71.57.0 u99799385 open "/logs/traffic.db" flags READ mode 0666
+Jan 23 09:50:35 10.71.57.0 u99799385 close "/logs/traffic.db" bytes read 12288 written 0
+Jan 23 09:50:35 10.71.57.0 u99799385 [10.71.57.0|get|0|12288|0|0|0|2f6c6f67732f747261666669632e6462|]
+Jan 23 09:50:36 10.71.57.0 u99799385 open "/logs/sftp.log" flags READ mode 0666
