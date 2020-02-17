@@ -1,4 +1,2 @@
-Bonjour a tous
-
 User-agent: *
-Disallow: /
+allow: /
